@@ -1,2 +1,1 @@
-# Learning-pupose.
-just testing purpose and exploring JavaScript.
+glowing text effect in html css in vs code editer 
